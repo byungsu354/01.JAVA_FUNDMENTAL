@@ -1,0 +1,5 @@
+http://docs.oracle.com/javase/8/docs/api/index.html     
+
+이크립스에서 API 문서생성시 인코딩설정
+
+-locale ko_KR -encoding UTF-8 -charset UTF-8 -docencoding UTF-8

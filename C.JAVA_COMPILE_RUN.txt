@@ -1,0 +1,14 @@
+윈도우검색참 --> cmd 입력--> enter key
+
+Microsoft Windows [Version 6.1.7601]
+Copyright (c) 2009 Microsoft Corporation. All rights reserved.
+
+C:\Users\stu23>cd C:\JAVA_BACKEND\eclipse-workspace-se\00.hello\src
+
+C:\JAVA_BACKEND\eclipse-workspace-se\00.hello\src>
+
+C:\JAVA_BACKEND\eclipse-workspace-se\00.hello\src>javac HelloWorld.java
+
+C:\JAVA_BACKEND\eclipse-workspace-se\00.hello\src>java HelloWorld
+
+
