@@ -1,4 +1,4 @@
-윈도우검색참 --> cmd 입력--> enter key
+윈도우검색창 --> cmd 입력--> enter key
 
 Microsoft Windows [Version 6.1.7601]
 Copyright (c) 2009 Microsoft Corporation. All rights reserved.
