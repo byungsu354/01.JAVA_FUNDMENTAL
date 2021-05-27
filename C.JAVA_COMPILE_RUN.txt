@@ -9,7 +9,8 @@ C:\Users\TEA>cd C:\2021-05-JAVA-DEVELOPER\javaSource
 
 C:\2021-05-JAVA-DEVELOPER\javaSource>javac HelloWorld.java
 
-C:\2021-05-JAVA-DEVELOPER\javaSource>
+C:\2021-05-JAVA-DEVELOPER\javaSource>java HelloWorld
+안녕자바!!!!!
 
 
 
