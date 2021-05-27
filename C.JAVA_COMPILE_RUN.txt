@@ -7,6 +7,8 @@ Microsoft Windows [Version 10.0.19042.985]
 
 C:\Users\TEA>cd C:\2021-05-JAVA-DEVELOPER\javaSource
 
+C:\2021-05-JAVA-DEVELOPER\javaSource>javac HelloWorld.java
+
 C:\2021-05-JAVA-DEVELOPER\javaSource>
 
 
